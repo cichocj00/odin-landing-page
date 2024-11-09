@@ -141,6 +141,31 @@ img {
     text-align: center;
 }
 
+/* Quote section */
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 128px 64px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2923;
+}
+
+.quote-author {
+    font-size: 24px;
+    font-weight: 700;
+    align-self: flex-end;
+}
 
 
 
