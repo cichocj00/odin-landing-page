@@ -189,5 +189,12 @@ img {
     font-weight: 900;
 }
 
+/* Footer */
+
+footer {
+    padding: 24px 0;
+    color: #F9FAF8;
+    text-align: center;
+}
 
 
