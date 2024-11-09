@@ -167,5 +167,27 @@ img {
     align-self: flex-end;
 }
 
+/* Cta section */
+
+.cta-section {
+    padding: 72px 0;
+}
+
+.cta-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 48px;
+    background-color: #3882F6;
+    border-radius: 8px;
+    color: #F9FAF8;
+}
+
+.reverse-btn {
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
 
 
